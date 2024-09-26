@@ -109,6 +109,7 @@ AUTH_PASSWORD_VALIDATORS = [
         'NAME': 'django.contrib.auth.password_validation.NumericPasswordValidator',
     },
 ]
+ROOT_URLCONF = 'monitoriaApp.urls'
 
 WSGI_APPLICATION = 'monitoriaApp.wsgi.application'
 
