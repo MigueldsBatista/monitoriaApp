@@ -2,5 +2,5 @@ django
 gunicorn
 python-dotenv
 whitenoise
-
+psycopg2
 #pip freeze > requirements.txt
